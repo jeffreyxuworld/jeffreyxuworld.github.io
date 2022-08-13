@@ -1,0 +1,276 @@
+{
+    "artist":[
+            {
+                "id":"12Chz98pHFMPJEknJQMWvI",
+                "name":"Muse"
+            },
+            {
+                "id":"1RyvyyTE3xzB2ZywiAwp0i",
+                "name":"Future"
+            },
+            {
+                "id":"2YZyLoL8N0Wb9xBt1NhZWg",
+                "name":"Kendrick Lamar"
+            },
+            {
+                "id":"4MCBfE4596Uoi2O4DtmEMz",
+                "name":"Juice WRLD"
+            },
+            {
+                "id":"5f7VJjfbwm532GiveGC0ZK",
+                "name":"Lil Baby"
+            },
+            {
+                "id":"5K4W6rqBFWDnAN6FQUkS6x",
+                "name":"Kanye West"
+            },
+            {
+                "id":"4q3ewBCX7sLwd24euuV69X",
+                "name":"Bad Bunny"
+            },
+            {
+                "id":"3TVXtAsR1Inumwj472S9r4",
+                "name":"Drake"
+            },
+            {
+                "id":"1XkoF8ryArs86LZvFOkbyr",
+                "name":"Mary J. Blige"
+            },
+            {
+                "id":"6VuMaDnrHyPL1p4EHjYLi7",
+                "name":"Charlie Puth"
+            },
+            {
+                "id":"1HY2Jd0NmPuamShAr6KMms",
+                "name":"Lady Gaga"
+            },
+            {
+                "id":"1McMsnEElThX1knmY4oliG",
+                "name":"Olivia Rodrigo"
+            },
+            {
+                "id":"53XhwfbYqKCa1cC15pYq2q",
+                "name":"Imagine Dragons"
+            },
+            {
+                "id":"2o8gT0fQmFxGNbowbdgeZe",
+                "name":"DPR IAN"
+            },
+            {
+                "id":"1Xyo4u8uXC1ZmMpatF05PJ",
+                "name":"The Weekend"
+            },
+            {
+                "id":"4dpARuHxo51G3z768sgnrY",
+                "name":"Adele"
+            },
+            {
+                "id":"6KImCVD70vtIoJWnq6nGn3",
+                "name":"Harry Styles"
+            },
+            {
+                "id":"04gDigrS5kc9YWfZHwBETP",
+                "name":"Maroon 5"
+            },
+            {
+                "id":"1uNFoZAHBGtllmzznpCI3s",
+                "name":"Justin Bieber"
+            },
+            {
+                "id":"4XpUIb8uuNlIWVKmgKZXC0",
+                "name":"ZICO"
+            },
+            {
+                "id":"06HL4z0CvFAxyc27GXpf02",
+                "name":"Taylor Swift"
+            },
+            {
+                "id":"6qqNVTkY8uBg9cP3Jd7DAH",
+                "name":"Billie Eilish"
+            },
+            {
+                "id":"6vWDO969PvNqNYHIOW5v0m",
+                "name":"Beyonce"
+            },
+            {
+                "id":"2elBjNSdBE2Y3f0j1mjrql",
+                "name":"Jay Chou"
+            }
+        ],
+    "album":[
+            {
+                "id":"6FJxoadUE4JNVwWHghBwnb",
+                "name":"RENAISSANCE(Beyonce)"
+            },
+            {
+                "id":"0JGOiO34nwfUdDrD612dOp",
+                "name":"Happier Than Ever(Billie Eilish)"
+            },
+            {
+                "id":"6kZ42qRrzov54LcAk4onW9",
+                "name":"Red(Taylor Swift)"
+            },
+            {
+                "id":"5gHJyHBTHBZlgFsODXj7HZ",
+                "name":"Grown Ass Kid(ZICO)"
+            },
+            {
+                "id":"3uPnO1aZBwMgWK1DI5zve9",
+                "name":"Justice(Justin Bieber)"
+            },
+            {
+                "id":"5x7JzoE4A3DwwU6FPt8qws",
+                "name":"Overexposed(Maroon 5)"
+            },
+            {
+                "id":"5r36AJ6VOJtp00oxSkBZ5h",
+                "name":"Harry's House(Harry Styles)"
+            },
+            {
+                "id":"21jF5jlMtzo94wbxmJ18aa",
+                "name":"30(The Weekend )"
+            },
+            {
+                "id":"7vp2iMEQzhNX4sEIUbHpiJ",
+                "name":"oodswings In To Order(DPR IAN)"
+            },
+            {
+                "id":"6yiXkzHvC0OTmhfDQOEWtS",
+                "name":"Mercury - Acts 1 & 2(Imagine Dragons)"
+            },
+            {
+                "id":"6s84u2TUpR3wdUv4NgKA2j",
+                "name":"SOUR(Olivia Rodrigo)"
+            },
+            {
+                "id":"3tjIKRAPBy5Qu4z8F5HmBz",
+                "name":"Top Gun: Maverick(Lady Gaga)"
+            },
+            {
+                "id":"0mZIUXje90JtHxPNzWsJNR",
+                "name":"Voicenotes(Charlie Puth)"
+            },
+            {
+                "id":"5K3aBzXwBvSltrtfBNYRl6",
+                "name":"Good Morning Gorgeous(Mary J. Blige)"
+            },
+            {
+                "id":"3cf4iSSKd8ffTncbtKljXw",
+                "name":"Honestly, Nevermind(Drake)"
+            },
+            {
+                "id":"3RQQmkQEvNCY4prGKE6oc5",
+                "name":"Un Verano Sin Ti(Bad Bunny)"
+            },
+            {
+                "id":"2Wiyo7LzdeBCsVZiRA6vVZ",
+                "name":"Donda(Kanye West)"
+            },
+            {
+                "id":"6CvBb1XqN0igtQrWrbXD80",
+                "name":"The Voice of the Heroes(Lil Baby)"
+            },
+            {
+                "id":"1typPCwqyXMfFpvDZAyKew",
+                "name":"Fighting Demons(Juice WRLD)"
+            },
+            {
+                "id":"79ONNoS4M9tfIA1mYLBYVX",
+                "name":"Mr. Morale & The Big Steppers(Kendrick Lamar)"
+            },
+            {
+                "id":"6ViO9Wx6dWzeUq6DmGTaHl",
+                "name":"I NEVER LIKED YOU(Future)"
+            },
+            {
+                "id":"5OZgDtx180ZZPMpm36J2zC",
+                "name":"Simulation Theory(Muse)"
+            },
+            {
+                "id":"1rBr9FeLlp5ueSKtE89FZa",
+                "name":"Greatest Works of Art(Jay Chou)"
+            }
+        ],
+    "playlist":[
+            {
+                "id":"37i9dQZF1DX4E3UdUs7fUx",
+                "name":"Unwind and let the afternoon unfold."
+            },
+            {
+                "id":"37i9dQZF1DX6GwdWRQMQpq",
+                "name":"The hip-hop playlist that's a whole mood."
+            },
+            {
+                "id":"37i9dQZF1DWUgBy0IJPlHq",
+                "name":"A new shade of Country."
+            },
+            {
+                "id":"37i9dQZF1DXdL58DnQ4ZqM",
+                "name":"Mellow tracks with slow tempo beats, perfect for a Chill Afternoon."
+            },
+            {
+                "id":"37i9dQZF1DX6VdMW310YC7",
+                "name":"Softer kinda"
+            },
+            {
+                "id":"37i9dQZF1DWWjGdmeTyeJ6",
+                "name":"The best new music by independent artists and labels. Updates every Wednesday."
+            },
+            {
+                "id":"37i9dQZF1DWYBO1MoTDhZI",
+                "name":"Set it off with these epic anthems. Only good vibes here!"
+            },
+            {
+                "id":"37i9dQZF1DXaXDsfv6nvZ5",
+                "name":"The soulful tunes to ease you into your day."
+            },
+            {
+                "id":"37i9dQZF1DX4eRPd9frC1m",
+                "name":"Aggressive trap and bass for the gym."
+            },
+            {
+                "id":"37i9dQZF1DWYBkvNBaUBeu",
+                "name":"Future hits in the Philippines!"   
+            },
+            {
+                "id":"37i9dQZF1DXcZQSjptOQtk",
+                "name":"Best tracks from the world of OPM and pop."
+            },
+            {
+                "id":"37i9dQZF1DX9tPFwDMOaN1",
+                "name":"Let's turn ON the movement!"
+            },
+            {
+                "id":"37i9dQZF1DX4FcAKI5Nhzq",
+                "name":"Future K-Pop hits!"
+            },
+            {
+                "id":"37i9dQZF1DWT1y71ZcMPe5",
+                "name":"The hottest songs you need to listen to right now."
+            },
+            {
+                "id":"37i9dQZF1DXbYM3nMM0oPk",
+                "name":"A mega mix of 75 favorites from the last few years!"
+            },
+            {
+                "id":"37i9dQZF1DWTwnEm1IYyoj",
+                "name":"Listen to easy songs from your favorite artists! "
+            },
+            {
+                "id":"37i9dQZF1DWVlLVXKTOAYa",
+                "name":"The most interesting tracks in the current world of pop music."
+            },
+            {
+                "id":"37i9dQZF1DXaPCIWxzZwR1",
+                "name":"in my showstopper, bad liar, homie hopper era."
+            },
+            {
+                "id":"37i9dQZF1DXcRXFNfZr7Tp",
+                "name":"Current favorites and exciting new music. "
+            },
+            {
+                "id":"37i9dQZF1DX3u9TSHqpdJC",
+                "name":"The best new pop music by independent artists. Updates every Wednesday. "
+            }
+        ]   
+}
